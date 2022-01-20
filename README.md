@@ -1,6 +1,7 @@
 # Notion-ToDo-Extender
 Extends capabilities of to-do blocks in Notion
-###MVP
+
+##MVP
 _____
 - script to automatically reset daily to-do blocks in a Notion account
 _____
